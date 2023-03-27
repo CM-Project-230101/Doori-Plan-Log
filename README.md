@@ -70,3 +70,7 @@
 - 캘린더
 - 메모장
 - 메인사진
+
+## 최종안 바탕으로 설계한 ERD 초안
+![Copy of Doori](https://user-images.githubusercontent.com/80454599/227839925-27d4947c-0a4a-4032-9414-9db5440b51f8.png)
+
